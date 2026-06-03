@@ -1,4 +1,4 @@
-# In this hands-on lab, you will create a fully working serverless reminder application using S3, Lambda, API Gateway, Step Functions, Simple Email Service, and Simple Notification Service.
+In this hands-on lab, you will create a fully working serverless reminder application using S3, Lambda, API Gateway, Step Functions, Simple Email Service, and Simple Notification Service.
 
 By the end of the lab, you will feel more comfortable architecting and implementing serverless solutions within AWS.
 
